@@ -1,0 +1,1 @@
+FROM gcr.io/cnrm-eap/controller:b59b871

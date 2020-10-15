@@ -1,0 +1,1 @@
+FROM gcr.io/cnrm-eap/deletiondefender:b59b871

@@ -1,0 +1,1 @@
+FROM gcr.io/cnrm-eap/recorder:b59b871

@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/kpt-fns:v1.0-rc.3-58-g616f986-dirty
