@@ -1,0 +1,1 @@
+FROM gcr.io/kfserving/sklearnserver:v0.3.0
